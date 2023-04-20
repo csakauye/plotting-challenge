@@ -9,5 +9,7 @@ When I finally did get it, I attempted to clean my code and must've lost somethi
 
 Despite that and a few other challenges, I found the plotting itself to be more straightforward and enjoyable. 
 
+Also, as an FYI, my code is saved under the name pymaceuticals in the Pymaceuticals folder.
+
 Thanks!
 
